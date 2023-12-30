@@ -1,0 +1,4 @@
+ChatLogServer$ChatMessage.class
+ChatLogServer.class
+org\example\Main.class
+ChatLogServer$JsonTransformer.class
